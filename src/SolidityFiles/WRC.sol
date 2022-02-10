@@ -22,8 +22,6 @@ contract  WeirdRoboClub is  ERC721URIStorage, ERC721Enumerable, Ownable, Pausabl
     uint public gl_price = 0.2 ether;
     uint public g_price = 0.3 ether;
 
-    //User up to 20 
-    
 
     //Pre Sale Arrays
     mapping(address => bool) public _allowedWL;

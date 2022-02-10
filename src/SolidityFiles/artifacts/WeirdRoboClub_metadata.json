@@ -1106,11 +1106,11 @@
 			]
 		},
 		"WRC.sol": {
-			"keccak256": "0xb6e388a48ec434676993a4ad8f98b1a26a18723f5047773a84623ee20027fe1b",
+			"keccak256": "0x8af3e87ef7351bea5f68c89b9855e220158da0e6a5f5091757ea7491574499b7",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://c3c55ceeffb713025e89f03b2e0a6ed39005e8d59b02aa2aae31530e6aa64fe0",
-				"dweb:/ipfs/QmY9npiLQavPp3HedmgrsGhxMjVt9moXD3KTCPqcaUDmJ2"
+				"bzz-raw://a99bfb18159615fd1275e26abec203f310b83beea1e475451966055bdefa51d0",
+				"dweb:/ipfs/QmRnMFa7qtiCf9fqdxcHEVenoQgqTHaEXhYsAxYokAetss"
 			]
 		}
 	},
