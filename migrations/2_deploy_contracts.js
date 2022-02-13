@@ -1,5 +1,5 @@
-const ExtinctionToken = artifacts.require("ExtinctionToken");
+const ExtinctionToken = artifacts.require("WeirdRoboClub");
 
 module.exports = function(deployer) {
-  deployer.deploy(ExtinctionToken);
+  deployer.deploy(WeirdRoboClub);
 };
